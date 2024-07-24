@@ -1,0 +1,12 @@
+/* Custom styles for additional customization */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+a {
+    transition: all 0.3s ease-in-out;
+}
+
+a:hover {
+    transform: translateY(-3px);
+}
